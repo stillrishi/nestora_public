@@ -1,0 +1,8 @@
+{
+  "appId": "com.nestora.app",
+  "appName": "Nestora",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
