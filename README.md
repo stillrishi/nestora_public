@@ -1,6 +1,6 @@
 # Nestora
 
-Nestora is a landlord property manager for tracking properties, tenancies, rent, expenses, and documents. This repository contains the app source only; it includes no landlord portfolio records, tenant records, uploaded documents, or connection to the original author's Supabase project.
+Nestora is a landlord property manager for tracking properties, tenancies, rent, expenses, and documents. This repository contains the app source only.
 
 ## Use your own Supabase project
 
